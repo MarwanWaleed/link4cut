@@ -2469,7 +2469,7 @@ body {
 }
 .button:hover {
     font-size: 14px;
-    color: fff;
+    color: #fff;
 }
 .button:active {
   -webkit-transform: translateX(-50%) scale(0.95);
