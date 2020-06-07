@@ -15,10 +15,10 @@ $(function () {
         var scroll = $(window).scrollTop();
         if (scroll < 20) {
             $(".navbar-area").removeClass("sticky");
-            $(".navbar .navbar-brand img").attr("src", "https://cdn.statically.io/gh/MarwanWaleed/link4cut/0a8c8fbe/logo.svg");
+            $(".navbar .navbar-brand img").attr("src", "https://cdn.statically.io/gh/MarwanWaleed/link4cut/9812b76b/logo-white.png");
         } else {
             $(".navbar-area").addClass("sticky");
-            $(".navbar .navbar-brand img").attr("src", "https://cdn.statically.io/gh/MarwanWaleed/link4cut/c57f394b/logo-2.svg");
+            $(".navbar .navbar-brand img").attr("src", "https://cdn.statically.io/gh/MarwanWaleed/link4cut/94e76743/logo-dark.png");
         }
     });
 
